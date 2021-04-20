@@ -19,14 +19,6 @@
 #include <limits>
 #include <math.h>
 
-#define rep(i, n) for (int i = 0; i < (int)(n); i++)
-#define all(a) a.begin(),a.end()
-#define P pair<int,int>
-#define Pll pair<long,long>
-#define mp make_pair
-#define INF 1000000001
-#define INFl 1000000000000000001
-#define ll long long
 using namespace std;
 
 void wait_for_n(FILE *fp){
